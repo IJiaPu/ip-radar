@@ -1,0 +1,9 @@
+{
+  "email": {
+    "from":  "your-email",
+    "password": "email-sk",
+    "to": "to-email",
+    "smtpHost": "smtp.126.com",
+    "smtpPort": "25"
+  }
+}
